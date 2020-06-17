@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+
+.page {
+    width: 800px;
+    margin: 0 auto 0;
+    background-color: sandybrown;
+    border: 3px solid brown;
+    padding: 15px;
+}
+
+.header-title {
+    margin:0;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.body-title {
+    margin: 0;
+    padding-bottom: 15px;
+    text-align: center;
+}
